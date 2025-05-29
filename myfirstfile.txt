@@ -4,3 +4,6 @@ i am learning GIT
 thank you
 new line 12334
 adding to dev-Master
+
+
+checking the merging service 
