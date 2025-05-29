@@ -1,0 +1,2 @@
+
+hi creating git file with git bash
